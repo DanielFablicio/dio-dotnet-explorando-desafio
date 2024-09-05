@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2M23E/ga+XvgCA4kkYFAesGZeVEiasp1e1R8gj+vW4SPmBjiEpTr7dmycS+ePYmT11Q7TTelXQw46lSy5EzHVA==",
+  "success": true,
+  "projectFilePath": "/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/Dio_Dotnet_Explorando_Desafio.csproj",
+  "expectedPackageFiles": [
+    "/home/australopitecus/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

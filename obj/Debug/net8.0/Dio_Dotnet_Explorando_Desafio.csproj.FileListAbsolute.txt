@@ -1,0 +1,17 @@
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/bin/Debug/net8.0/Dio_Dotnet_Explorando_Desafio
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/bin/Debug/net8.0/Dio_Dotnet_Explorando_Desafio.deps.json
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/bin/Debug/net8.0/Dio_Dotnet_Explorando_Desafio.runtimeconfig.json
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/bin/Debug/net8.0/Dio_Dotnet_Explorando_Desafio.dll
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/bin/Debug/net8.0/Dio_Dotnet_Explorando_Desafio.pdb
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/obj/Debug/net8.0/Dio_Dotnet_Explorando_Desafio.GeneratedMSBuildEditorConfig.editorconfig
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/obj/Debug/net8.0/Dio_Dotnet_Explorando_Desafio.AssemblyInfoInputs.cache
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/obj/Debug/net8.0/Dio_Dotnet_Explorando_Desafio.AssemblyInfo.cs
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/obj/Debug/net8.0/Dio_Dotnet_Explorando_Desafio.csproj.CoreCompileInputs.cache
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/obj/Debug/net8.0/Dio_Dotnet_Explorando_Desafio.dll
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/obj/Debug/net8.0/refint/Dio_Dotnet_Explorando_Desafio.dll
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/obj/Debug/net8.0/Dio_Dotnet_Explorando_Desafio.pdb
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/obj/Debug/net8.0/Dio_Dotnet_Explorando_Desafio.genruntimeconfig.cache
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/obj/Debug/net8.0/ref/Dio_Dotnet_Explorando_Desafio.dll
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/bin/Debug/net8.0/Newtonsoft.Json.dll
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/obj/Debug/net8.0/Dio_Dotnet_Explorando_Desafio.csproj.AssemblyReference.cache
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Explorando_Desafio/obj/Debug/net8.0/Dio_Dotnet_Explorando_Desafio.csproj.CopyComplete
